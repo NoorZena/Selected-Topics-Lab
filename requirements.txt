@@ -1,6 +1,6 @@
-streamlit
-numpy
-scikit-learn
 nltk
 gensim
 triu
+streamlit
+numpy
+scikit-learn
